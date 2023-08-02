@@ -15,6 +15,8 @@ const words = ['seat', 'pen', 'broad', 'vapor', 'ocean',
 
 function getPassword () {
 
+  
+
   const chars = '0123456789!@#$%&';
   const clength = chars.length;
   let password = '';
