@@ -13,6 +13,8 @@ const words = ['seat', 'pen', 'broad', 'vapor', 'ocean',
 'poem', 'depth', 'press', 'crowd', 'herd', 'drink', 'worry',
 'dried', 'dig', 'new', 'rest', 'play', 'win', 'strong'];
 
+
+
 function getPassword () {
 
   
